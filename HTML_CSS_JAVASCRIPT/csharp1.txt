@@ -1,0 +1,22 @@
+using system;
+
+namespace CSharpFundamentals
+{
+public class sample
+{
+public static void Main(string[] args)
+{
+int empAge;
+string empName;  
+
+
+Console.WriteLine("enter employee name \n");
+empName = console.ReadLine();
+Console.WriteLine("enter employee name \n");
+empAge = int.Parse(Console.ReadLine());
+
+console.WriteLine("congratulations mr/miss {0}on your {1}birthday",empName,empAge);
+}
+}
+
+}

@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+<head>
+<title>Registration Page</title>
+</head>
+<body bgcolor="sky blue">
+<table BODER="6">
+
+<tr>
+<td>NAME:</td><td><input type="text" name="txtname"></br></td>
+</tr>
+
+<tr>
+<td>DOB:</td><td><input type="date" name="txtDOB"></br></td>
+</tr>
+
+<tr>
+<td>ADDRESS:</td><td><textarea name="txtADDRESS" rows="7" coloums="50"></textarea></td>
+</tr>
+
+<tr>
+<td><GENDER:></td><td><input type="radio" name="radGENDER">Male</br>
+                      <input type="radio" name="radGENDER">Female</br></td>
+</tr>
+
+<tr>
+<td>HOBBIES:</td><td><select name="sethobby">
+<option value="swin">swimming</option>
+<option value="travel">travelling</option>
+<option value="read">reading</option></td>
+</tr>
+
+<tr>
+<td>Email Id</td><td><input type="txtEmail" name="txtEmail" value="enter your Email ID"></td>
+</tr>
+
+<tr>
+<td><input type="submit" name=btnsubmit" value="Submit"></td>
+<td><input type="reset" name=btnreset" value="Reset"></td>
+</tr>
+</table>
+</form>
+</html>
+
+
+
+
+

@@ -1,0 +1,25 @@
+<!doctype html>
+<html
+<head>
+<title>form validation</title>
+</head>
+<body>
+<script ="text/javascript">
+<form id="myform" method="post">
+<tr>
+<td>NAME:</td><td><input type="text" name="txtname"></br></td>
+</tr>
+
+<tr>
+<td>DOB:</td><td><input type="date" name="txtDOB" required></br></td>
+</tr>
+
+<tr>
+<td><input type="submit" name=btnsubmit" value="Submit"></td>
+</tr>
+
+
+
+</script>
+</body>
+</html>

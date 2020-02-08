@@ -1,0 +1,8 @@
+<!doctype html>
+<html>
+<head>
+<title>Registration Page</title>
+</head>
+<body bgcolor ="sky blue">
+
+<h1>your registration process is successfully completed</h1>

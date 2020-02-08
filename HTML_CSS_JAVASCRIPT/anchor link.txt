@@ -1,0 +1,17 @@
+<!doctype httml>
+<html>
+<head>
+<meta charset ="utf=8">
+<title>List Tags</title>
+<body bgcolor="sky blue">
+
+<img src="lighthouse.jpg" height="300" width="500"/>
+
+<h3>This page contains anchor link tags</h3>
+
+<a href="https://www.timesofindia.com">Times of India</a></br>
+<a href="https://www.msdn.com">MSDN</a></br>
+<a href="https://www.thehindu.com">The Hindu</a></br>
+</body>
+</html>
+

@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+<head>
+<title>Java script Arrays Programming</title>
+</head>
+<body>
+<script>
+var employees = ['savi','pavi','hari','kavitha','hemu'];
+
+document.writeln('number of employees =  '+ employees.length);
+
+document.writeln('</br>');
+
+document.writeln('all employees ->' + employees);
+
+document.writeln('</br>');
+
+</script>
+</body>
+</html>

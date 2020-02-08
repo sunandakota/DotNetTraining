@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head>
+<title>this javascript page</title>
+</head>
+<body>
+<p id="p1">this is some contentof the paragraph</p>
+<script type="text/javascript">
+function greet(msg)
+{
+return msg;
+}
+document.getElementById('p1').innerHTML = greet('hello,this is a different content passed to the paragraph');
+</script>
+</body>
+</html>

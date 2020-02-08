@@ -1,0 +1,57 @@
+<!doctype httml>
+<html>
+<head>
+<meta charset ="utf=8">
+<title>Restaurent</title>
+<body bgcolor="sky blue">
+
+<h1>FAMILY RESTAURENT</h1>
+
+<img src="open rest.jpg" height="300" width="500"/>
+<ul>
+<b>MENU:</b>
+<i>staters:</i>
+<li>gob65  70</li>
+<li>chilli potato 70</li>
+<li>masala corn   80</li>
+<li>peanut malasa 60</li>
+</ul>
+
+<ul>
+<i>Rice items:</i>
+<li>veg biriyani 70</li>
+<li>chiken biriyani 100</li>
+<li>mutton biriyani 150</li>
+<li>paneer biriyani 90</li>
+<li>full veg thali 300</li>
+</ul>
+
+<img src="dishes.jpg" height="300" width="500"/>
+
+<ul>
+<i>roti:</i>
+<li>roti 5</li>
+<li>pulka 5</li>
+<li>butter non 10</li>
+</ul>
+
+<ul>
+<i>curries:</i>
+<li>kaju curry 150</li>
+<li>chole masala 120</li>
+<li>corn masala 120</li>
+<li>mixed ver curry 130</li>
+<li>chiken fry 100</li>
+<li>fish curry 150</li>
+</ul>
+
+<img src="desserts.jpg" height="300" width="500"/>
+
+<ul>
+<i>desserts:</i>
+<li>kulfi 25</li>
+<li>fruit salad 50</li> 
+</ul>
+<a href="file:///D:/sun/HTML/about%20page.html">About page</a></br>
+</body>
+</html>

@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+<head>
+<title> My frist javascript programming</title>
+<script type="text/javascript">
+function Greetings(msg)
+{
+return msg;
+}
+var msg = Greetings('congratulations on your success in exams');
+document.writeln(msg);
+</script>
+</body>
+</script>
