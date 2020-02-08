@@ -1,0 +1,12 @@
+C:\Users\BLTuser.BLT018\source\repos\DataAccessApp\DataAccessApp\obj\Debug\DataAccessApp.csprojResolveAssemblyReference.cache
+C:\Users\BLTuser.BLT018\source\repos\DataAccessApp\DataAccessApp\obj\Debug\DataAccessApp.Form1.resources
+C:\Users\BLTuser.BLT018\source\repos\DataAccessApp\DataAccessApp\obj\Debug\DataAccessApp.Properties.Resources.resources
+C:\Users\BLTuser.BLT018\source\repos\DataAccessApp\DataAccessApp\obj\Debug\DataAccessApp.csproj.GenerateResource.Cache
+C:\Users\BLTuser.BLT018\source\repos\DataAccessApp\DataAccessApp\obj\Debug\DataAccessApp.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT018\source\repos\DataAccessApp\DataAccessApp\bin\Debug\DataAccessApp.exe.config
+C:\Users\BLTuser.BLT018\source\repos\DataAccessApp\DataAccessApp\bin\Debug\DataAccessApp.exe
+C:\Users\BLTuser.BLT018\source\repos\DataAccessApp\DataAccessApp\bin\Debug\DataAccessApp.pdb
+C:\Users\BLTuser.BLT018\source\repos\DataAccessApp\DataAccessApp\obj\Debug\DataAccessApp.exe
+C:\Users\BLTuser.BLT018\source\repos\DataAccessApp\DataAccessApp\obj\Debug\DataAccessApp.pdb
+C:\Users\BLTuser.BLT018\source\repos\DataAccessApp\DataAccessApp\obj\Debug\DataAccessApp.Form2.resources
+C:\Users\BLTuser.BLT018\source\repos\DataAccessApp\DataAccessApp\obj\Debug\DataAccessApp.Form3.resources
