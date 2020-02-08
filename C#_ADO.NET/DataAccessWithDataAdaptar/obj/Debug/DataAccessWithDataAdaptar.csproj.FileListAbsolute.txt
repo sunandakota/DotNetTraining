@@ -1,0 +1,12 @@
+C:\Users\BLTuser.BLT018\source\repos\DataAccessApp\DataAccessWithDataAdaptar\bin\Debug\DataAccessWithDataAdaptar.exe.config
+C:\Users\BLTuser.BLT018\source\repos\DataAccessApp\DataAccessWithDataAdaptar\bin\Debug\DataAccessWithDataAdaptar.exe
+C:\Users\BLTuser.BLT018\source\repos\DataAccessApp\DataAccessWithDataAdaptar\bin\Debug\DataAccessWithDataAdaptar.pdb
+C:\Users\BLTuser.BLT018\source\repos\DataAccessApp\DataAccessWithDataAdaptar\obj\Debug\DataAccessWithDataAdaptar.csprojResolveAssemblyReference.cache
+C:\Users\BLTuser.BLT018\source\repos\DataAccessApp\DataAccessWithDataAdaptar\obj\Debug\DataAccessWithDataAdaptar.Form1.resources
+C:\Users\BLTuser.BLT018\source\repos\DataAccessApp\DataAccessWithDataAdaptar\obj\Debug\DataAccessWithDataAdaptar.Properties.Resources.resources
+C:\Users\BLTuser.BLT018\source\repos\DataAccessApp\DataAccessWithDataAdaptar\obj\Debug\DataAccessWithDataAdaptar.csproj.GenerateResource.Cache
+C:\Users\BLTuser.BLT018\source\repos\DataAccessApp\DataAccessWithDataAdaptar\obj\Debug\DataAccessWithDataAdaptar.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT018\source\repos\DataAccessApp\DataAccessWithDataAdaptar\obj\Debug\DataAccessWithDataAdaptar.exe
+C:\Users\BLTuser.BLT018\source\repos\DataAccessApp\DataAccessWithDataAdaptar\obj\Debug\DataAccessWithDataAdaptar.pdb
+C:\Users\BLTuser.BLT018\source\repos\DataAccessApp\DataAccessWithDataAdaptar\obj\Debug\DataAccessWithDataAdaptar.Form2.resources
+C:\Users\BLTuser.BLT018\source\repos\DataAccessApp\DataAccessWithDataAdaptar\obj\Debug\DataAccessWithDataAdaptar.Form3.resources
