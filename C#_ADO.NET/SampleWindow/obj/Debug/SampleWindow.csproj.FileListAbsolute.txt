@@ -1,0 +1,10 @@
+C:\Users\BLTuser.BLT018\source\repos\SampleWindow\SampleWindow\bin\Debug\SampleWindow.exe.config
+C:\Users\BLTuser.BLT018\source\repos\SampleWindow\SampleWindow\bin\Debug\SampleWindow.exe
+C:\Users\BLTuser.BLT018\source\repos\SampleWindow\SampleWindow\bin\Debug\SampleWindow.pdb
+C:\Users\BLTuser.BLT018\source\repos\SampleWindow\SampleWindow\obj\Debug\SampleWindow.csprojResolveAssemblyReference.cache
+C:\Users\BLTuser.BLT018\source\repos\SampleWindow\SampleWindow\obj\Debug\SampleWindow.Form1.resources
+C:\Users\BLTuser.BLT018\source\repos\SampleWindow\SampleWindow\obj\Debug\SampleWindow.Properties.Resources.resources
+C:\Users\BLTuser.BLT018\source\repos\SampleWindow\SampleWindow\obj\Debug\SampleWindow.csproj.GenerateResource.Cache
+C:\Users\BLTuser.BLT018\source\repos\SampleWindow\SampleWindow\obj\Debug\SampleWindow.csproj.CoreCompileInputs.cache
+C:\Users\BLTuser.BLT018\source\repos\SampleWindow\SampleWindow\obj\Debug\SampleWindow.exe
+C:\Users\BLTuser.BLT018\source\repos\SampleWindow\SampleWindow\obj\Debug\SampleWindow.pdb
